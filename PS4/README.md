@@ -132,6 +132,8 @@ has_toc: false
 | [Sonic Mania](CUSA07010/) | CUSA07010 |
 | [Spyro Reignited Trilogy](CUSA12085/) | CUSA12085 |
 | [Star Wars Jedi: Fallen Order](CUSA12529/) | CUSA12529 |
+| [Starlit KART Racing](CUSA32968/) | CUSA32968 |
+| [Starlit KART Racing](CUSA32969/) | CUSA32969 |
 | [The Evil Within](CUSA00203/) | CUSA00203 |
 | [THE LAST REMNANT Remastered](CUSA11846/) | CUSA11846 |
 | [Thief](CUSA00250/) | CUSA00250 |
