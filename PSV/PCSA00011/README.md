@@ -11,3 +11,4 @@ permalink: PSV/PCSA00011/
 | Icon | Filename | Description |
 |------|----------|-------------|
 | ![Gravity Rush™](icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | Gravity LAMA  |
+| ![Gravity Rush™](icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | Chapter 21 - Bunch of challenges completed - Almost fully upgraded |
